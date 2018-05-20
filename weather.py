@@ -77,4 +77,5 @@ def main():
     text = printWeatherInfo(weaInfoList)
     textMyself(text)
 
-main()
+if __name__ == '__main__':
+    main()
