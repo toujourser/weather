@@ -1,2 +1,2 @@
-# weather
+# weather_spider
 python爬虫从中国天气官网爬取指定地点的天气信息，并通过短信发送到手机
